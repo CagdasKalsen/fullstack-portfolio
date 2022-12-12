@@ -1,8 +1,8 @@
 [{
         "name": "project1",
-        "live": "https://app.herokuapp.com/whatever",
-        "git": "http://www.github.com/username/reponame",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "live": "https://cagdaskalsen.github.io/Trivia/",
+        "git": "https://github.com/CagdasKalsen/Trivia",
+        "image": "https://user-images.githubusercontent.com/75834404/202925658-6014f02a-4a91-4ef9-bfbf-e573211d7df6.png"
     },
     {
         "name": "project2",
