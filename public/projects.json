@@ -1,0 +1,13 @@
+[{
+        "name": "project1",
+        "live": "https://app.herokuapp.com/whatever",
+        "git": "http://www.github.com/username/reponame",
+        "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+        "name": "project2",
+        "live": "lucent-cannoli-76de25.netlify.app",
+        "git": "https://github.com/CagdasKalsen/project2",
+        "image": "https://featuredanimation.com/wp-content/uploads/2022/10/Popular-Disney-Characters.jpg"
+    }
+]
